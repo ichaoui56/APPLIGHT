@@ -161,6 +161,7 @@ h6 {
 .section-padding {
 	padding:80px 0px;
 	background-color:linear-gradient(to left, #000000, #14b3a1);
+	
 
 }
 .sectioner-header {
@@ -333,8 +334,8 @@ h6 {
 	margin-bottom: 0px;
 }
 .testimonial {
-	background: #618264;
-	background: linear-gradient(to left, #000000, #186F65);
+	
+	background: white;
 	padding:100px 0px;
 	position:relative;
 }
@@ -368,6 +369,9 @@ h6 {
 }
 .slider-item {
 	padding:20px;
+	background-color:#40867e;
+	border-radius: 10px;
+	color: white;
 }
 .slider .test-img img {
 	border: 12px solid #fff;
@@ -376,8 +380,12 @@ h6 {
 	height: auto;
 }
 .test-img {
+	
 	float: left;
+	margin-top: 5%;
 	width: 20%;
+	aspect-ratio: 4/3;
+	object-fit: contain;
 	margin-right:5%;
 }
 .test-text {
@@ -564,9 +572,16 @@ h3 {
 	margin-top: 20px;
 }
 .team-detail {
+	float: left;
+	margin-top: 5%;
+	width: 20%;
+	aspect-ratio: 4/3;
+	object-fit: contain;
+	margin-right:5%;
 	margin-top: 20px;
 }
 .team-detail img {
+	
 	width: 50%;
 }
 .bx-controls
@@ -592,6 +607,7 @@ h3 {
 }
 .section-content {
 	margin-top: 40px;
+	background-color: white;
 }
 .faq-content {
 	margin: 10px 0px;
@@ -624,6 +640,7 @@ h3 {
 	left: 18%;
 	margin-left: 15%;
 	padding: 60px 40px 30px 40px;
+	margin-bottom: 30%;
 	width: 400px;
 	height: 400px;
 	-webkit-box-shadow: -9px 13px 29px -3px rgba(0,0,0,0.75);
@@ -660,10 +677,12 @@ h3 {
 
 .col-md-12{
 	margin-top: 5%;
+	
 }
 
 .element.style {
 	background-color: aqua;
+	background-color: slategray;
 }
 
 
