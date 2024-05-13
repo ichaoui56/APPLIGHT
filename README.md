@@ -62,6 +62,3 @@ L'évaluation du travail se fera selon les critères suivants :
 - Respect des exigences spécifiées.
 - Réponses appropriées aux questions posées.
 
----
-
-*Note: Ce document est un exemple de readme pour le projet. N'oubliez pas d'ajouter les maquettes des pages ajoutées dans le fichier Readme de votre repository GitHub.*
