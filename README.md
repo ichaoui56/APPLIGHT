@@ -1,5 +1,8 @@
 # Amélioration, Organisation et Réutilisation d'un Template One-page (brief-1)
 
+![Appligh app](https://i.ibb.co/59w6yZM/Capture-d-cran-2024-05-13-143523.png)
+
+
 ## Contexte
 
 Ce projet consiste à améliorer, organiser et réutiliser un template One-page en le transformant en un template multi-pages. L'objectif est de répondre aux besoins d'AppLight, une entreprise souhaitant améliorer ses services et son expérience utilisateur en passant d'un template unique à un modèle plus pratique et évolutif. 
